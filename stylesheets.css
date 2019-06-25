@@ -1,0 +1,9 @@
+body {
+ background-image: url("rainbowcolors.jfif");
+ background-position: center;
+ background-size: cover;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+} 
